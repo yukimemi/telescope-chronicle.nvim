@@ -1,4 +1,4 @@
-# telescope_chronicle.nvim
+# telescope-chronicle.nvim
 
 This is a [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) source for [chronicle.vim](https://github.com/yukimemi/chronicle.vim).
 
