@@ -6,7 +6,7 @@ This is a [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) sou
 
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [yukimemi/chronicle.vim](https://github.com/yukimemi/chronicle.vim)
-  
+
 # Usage
 
 First, load the extension.
