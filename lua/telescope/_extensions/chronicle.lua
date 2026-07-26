@@ -6,7 +6,7 @@
 
 local chronicle = require("telescope_chronicle")
 
-return require("telescope").register_extension {
+return require("telescope").register_extension({
   setup = function(ext_config, config)
     -- access extension config and user config
   end,
@@ -14,4 +14,4 @@ return require("telescope").register_extension {
     read = chronicle.chronicle_read,
     write = chronicle.chronicle_write,
   },
-}
+})
