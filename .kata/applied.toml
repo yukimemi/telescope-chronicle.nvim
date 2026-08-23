@@ -1,14 +1,14 @@
 preset = "github.com/yukimemi/pj-presets:nvim"
-applied_at = "2026-08-22T04:47:35.924948818Z"
+applied_at = "2026-08-23T03:34:28.474424718Z"
 
 [[templates]]
 source = "github.com/yukimemi/pj-base"
-rev = "8217f1a99c55240c7337f40b8afb35d9e9232499"
-version = "0.14.0"
+rev = "0424dfa03771babdeca3c22f08fe003f2811f820"
+version = "0.16.0"
 
 [[templates]]
 source = "github.com/yukimemi/pj-nvim"
-rev = "f67ddc6ab30c6e354181b47438325a05f49849f2"
+rev = "1b0b43d1e54e21ea7f2595e783f2be87e46a9430"
 version = "0.1.0"
 
 [files.".agents/skills/renri/SKILL.md"]
@@ -36,13 +36,13 @@ content_hash = "8d0de0b2e577bd089d18475915f4cd41f2e7af4054b4888a8ddaac58946ee4e8
 content_hash = "86ff51d6d07835c68827801f362d3b2a08b970ec721dde3bbe58df57fcc38c4f"
 
 [files.".github/workflows/kata-apply.yml"]
-content_hash = "2256d160721583ff5b6afe5c9a1778761f7ce6fc5ba46dbe27c9cd7d803a0632"
+content_hash = "dabe8abf66ac3ae701f1ff42771972c840028eaa0cc23a1cdb403d3990606d52"
 
 [files.".gitignore"]
 content_hash = "4bebd1c3417c33f9d1c51f011694f6d82b098bbb1a5a102ba56e97ab01a866ef"
 
 [files.".kata/vars.toml"]
-content_hash = "393b2b94540e792790ef9357e46e5bc259eb3064605794ca2373ae458999cb23"
+content_hash = "8e573305bc9b45b40e4c4c24c0da7728771a12d81c4c1631d6e35f25a189cf84"
 once_applied = true
 
 [files.".stylua.toml"]
@@ -52,7 +52,7 @@ content_hash = "7f28594ddc3ea22d04619cdafab44c597e555f9f9d396100b417fde702b4bfd0
 once_applied = true
 
 [files."AGENTS.md"]
-content_hash = "234c43bbc3e9067036574ebaab7869b3ab8160ea2d700cb5995a93ad795a56f4"
+content_hash = "24c56815818500f0a64ad9f9c5b9b0a18a1e08e688e11fdb6c418891bdc4cdb7"
 
 [files."CLAUDE.md"]
 content_hash = "a76b3af252969b8120128d7ce44f2b6cfdcf88c7420ee00675732f542d047529"
