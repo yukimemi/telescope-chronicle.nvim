@@ -1,9 +1,9 @@
 preset = "github.com/yukimemi/pj-presets:nvim"
-applied_at = "2026-08-30T03:29:22.996078425Z"
+applied_at = "2026-08-31T03:32:28.219067883Z"
 
 [[templates]]
 source = "github.com/yukimemi/pj-base"
-rev = "10cd49c09b95af8add4daf71c5151835821cb670"
+rev = "b205d49d8676a2d3b78efa020749b7f012921159"
 version = "0.18.0"
 
 [[templates]]
@@ -16,6 +16,9 @@ once_applied = true
 
 [files.".claude/skills/renri/SKILL.md"]
 once_applied = true
+
+[files.".editorconfig"]
+content_hash = "31dd1c43fbb48cd8380a0fae0780f05d42eef658ea695772c51b4bde291f7438"
 
 [files.".gemini/settings.json"]
 content_hash = "486c974de88903113ed99b4e643432b7050e88f1031276f5263e8da7b43fe11e"
@@ -33,7 +36,7 @@ content_hash = "4eb3a5b3d158aab6ed44c6c2c51980880a6dcaf6367681f387cd95519c23c760
 content_hash = "84a8abed2a63c56647fa5d7a6f32147ddc2f39e09aed63f759cd8337d710580e"
 
 [files.".github/workflows/claude.yml"]
-content_hash = "71ca2566fcf778848bf0c9e08fbcb06014741530618b81aded1cbadc3a619563"
+content_hash = "be0b9147871dff320e42f596d8d35e1d5a86038bd8c4951e24acfd3281a47ec0"
 
 [files.".github/workflows/kata-apply.yml"]
 content_hash = "9c2923b9d8b5a8fd49662295940eab642388ade92a56239c685322dc392ce1e1"
