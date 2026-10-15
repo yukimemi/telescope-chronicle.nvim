@@ -1,5 +1,5 @@
 preset = "github.com/yukimemi/pj-presets:nvim"
-applied_at = "2026-10-14T03:31:24.509440546Z"
+applied_at = "2026-10-15T03:31:03.960322639Z"
 
 [[templates]]
 source = "github.com/yukimemi/pj-base"
